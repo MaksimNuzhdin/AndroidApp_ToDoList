@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="button_add_note_disc">Button add note</string>
+    <string name="Edit_text_enter_note">Enter Note</string>
+    <string name="RadioButton_low">Low</string>
+    <string name="RadioButtommedium">Medium</string>
+    <string name="RadioButtonHigh">High</string>
+    <string name="Buttoncreatenote">CreateNote</string>
+    <string name="error_field_empty" >Please enter Note</string>
+</resources>
